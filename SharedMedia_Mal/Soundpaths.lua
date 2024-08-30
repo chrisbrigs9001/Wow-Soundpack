@@ -34,6 +34,7 @@ LSM:Register("sound", "|cFFFF0000uwu|r", [[Interface\Addons\SharedMedia_Mal\soun
 LSM:Register("sound", "|cFFFF0000Dorki_Loves_Ion_Hazikostas|r", [[Interface\Addons\SharedMedia_Mal\sound\dorki_sucks_ions_dick.ogg]])
 LSM:Register("sound", "|cFFFF0000Move Bitch|r", [[Interface\Addons\SharedMedia_Mal\sound\move_bitch.ogg]])
 LSM:Register("sound", "|cFFFF0000TheDarkness|r", [[Interface\Addons\SharedMedia_Mal\sound\theDarkness.ogg]])
+LSM:Register("sound", "|cFFFF0000VerunHpal|r", [[Interface\Addons\SharedMedia_Mal\sound\verun_hpal.mp3]])
 
 -- -----
 --   STATUSBAR
